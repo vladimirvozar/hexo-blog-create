@@ -12,7 +12,7 @@ menu:
 menu_title:
 
 # URL of the Home page image
-index_cover: /img/home-bg.jpg
+index_cover: /hexo-blog-create/img/home-bg.jpg
 
 # Default post title
 default_post_title: Untitled
@@ -34,7 +34,7 @@ google_analytics:
 addthis:
 
 # set your own favicon
-favicon: /img/favicon.ico
+favicon: /hexo-blog-create/img/favicon.ico
 
 # Social Accounts
 twitter_url:
